@@ -1,0 +1,2 @@
+# quickNotizProject
+mit Datenbank - sqlite
